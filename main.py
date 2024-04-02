@@ -68,5 +68,5 @@ def close():
 
 
 if __name__ == "__main__":
-    # gets the index.html file in mozill
+    # gets the index.html file in mozilla
     eel.start("index.html", mode='mozilla', port=9988)
